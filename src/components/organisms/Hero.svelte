@@ -12,8 +12,8 @@
 
 <section id="home" class="wrapper">
 	<div>
-		<h1>afn</h1>
-		<h4>Hobbyist illustrator and designer. <br />Attempting to program.</h4>
+		<h1>Gökhan Ş.</h1>
+		<h4>Nothing much about me now. <br />We'll see it later.</h4>
 		<div class="socials">
 			<Socials />
 		</div>
