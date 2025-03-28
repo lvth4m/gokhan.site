@@ -9,7 +9,7 @@
 </script>
 
 <div class="socials-container">
-	<Social tip="xafn" link="https://github.com/xafn">
+	<Social tip="lvth4m" link="https://github.com/lvth4m">
 		<GitHubIcon color="var(--accent)" />
 	</Social>
 
@@ -17,7 +17,7 @@
 		<DiscordIcon color="var(--accent)" />
 	</Social>
 
-	<Social tip="hey@afn.im" link="mailto:hey@afn.im">
+	<Social tip="realsuzucry@gmail.com" link="mailto:realsuzucry@gmail.com">
 		<MailIcon color="var(--accent)" />
 	</Social>
 
