@@ -30,7 +30,7 @@
 			<span>my childhood</span>, and have been playing the electric guitar since <span>2024</span>.
 			Recently, however, I’ve been fond of thrash metal. I like listening and playing
 			<Tooltip tip="🤓">
-				<a href="https://github.com/xafn" target="_blank" rel="noreferrer">
+				<a href="https://open.spotify.com/user/31owo5mukrfbj6cdlmbj6k2hovsy" target="_blank" rel="noreferrer">
 					<span>old-school thrash and crossover thrash</span>
 				</a>
 			</Tooltip>
