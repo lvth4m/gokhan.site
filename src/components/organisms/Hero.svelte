@@ -17,7 +17,7 @@
 		<div class="socials">
 			<Socials />
 		</div>
-		<Button side on:click={handleClick} on:keypress={handleClick}>Discover my work ↓</Button>
+		<Button side on:click={handleClick} on:keypress={handleClick}>Discover not my work ↓</Button>
 	</div>
 	<HeroImage />
 </section>
