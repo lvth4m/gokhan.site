@@ -35,7 +35,7 @@
 				</a>
 			</Tooltip>
 			whenever I possibly can, which is probably the reason why my brain is rotten. Currently struggling
-			with writing songs and producing my own short demo album. I will link my music to this website when they're done.
+			with writing songs and producing my own short demo album. I will link my music to this website when it's done.
 		</p>
 	</div>
 </section>
