@@ -27,15 +27,15 @@
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
 			year old student and amateur guitarist based in Turkey. I’ve loved music and art since
-			my childhood, <span>and have been playing the electric guitar since 15/05/2024</span>.
-			Recently, however, I’ve been fond of thrash metal. I like listening and playing
+			my childhood, I have experience with piano and singing. <span>and have been playing the electric guitar since 15/05/2024.</span>
+			Recently, I’ve been a big fan of thrash metal. I like listening and playing
 			<Tooltip tip="🤓">
 				<a href="https://open.spotify.com/user/31owo5mukrfbj6cdlmbj6k2hovsy" target="_blank" rel="noreferrer">
 					<span>old-school thrash and crossover thrash.</span>
 				</a>
 			</Tooltip>
-			I've also built a decent repertory, actively learning new songs. <span>Currently struggling
-			with writing songs and producing my own short demo album.</span> I will link my music to this website when it's done.
+			I'm inspired by Cliff Burton, John Connelly and Dave Mustaine, I've also built a decent repertory, actively learning new songs. <span>Currently struggling
+			with songwriting and producing my own short demo album.</span> I will link my music to this website when it's done.
 		</p>
 	</div>
 </section>
