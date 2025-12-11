@@ -4,7 +4,7 @@
 
 	// i didnt write this idk
 	let getAge = () => {
-		let birthDate = new Date('2000/01/01');
+		let birthDate = new Date('2025/05/15');
 		const ageMs = Date.now() - birthDate.getTime();
 		const preciseAge = (ageMs / 31536000000).toFixed(10);
 		return preciseAge;
@@ -23,19 +23,18 @@
 	<div class="text">
 		<h2>bio</h2>
 		<p>
-			Hey there, I'm Gökhan. I'm a <Tooltip tip={age}
+			Hey there, I'm Gökhan. I'm a thrash guitarist based in Istanbul, Türkiye. I've been playing the guitar for <Tooltip tip={age}
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
-			year old student and amateur guitarist based in Turkey. I’ve loved music and art since
-			my childhood, I have experience with piano and singing. <span>and have been playing the electric guitar since 15/05/2024.</span>
-			Recently, I’ve been a big fan of thrash metal. I like listening and playing
+			years, occasionally sing and have experience with the piano.
+			I often write death/thrash riffs, and I'm planning on recording and producing my own songs.
 			<Tooltip tip="🤓">
 				<a href="https://open.spotify.com/user/31owo5mukrfbj6cdlmbj6k2hovsy" target="_blank" rel="noreferrer">
-					<span>old-school thrash and crossover thrash.</span>
+					<span>old-school thrash, death-thrash and crossover thrash are my favorite thrash styles.</span>
 				</a>
 			</Tooltip>
-			I'm inspired by Cliff Burton, John Connelly and Dave Mustaine, I've also built a decent repertory, actively learning new songs. <span>Currently struggling
-			with songwriting and producing my own short demo album.</span> I will link my music to this website when it's done.
+			I'm inspired by D. D Verni, John Connelly, Dave Mustaine etc, and I have also built a decent repertory, been actively learning new songs. <span>Currently struggling
+			with songwriting, forming a band with other passionate musicians.</span> I will link my music to this website when it's done.
 		</p>
 	</div>
 </section>
